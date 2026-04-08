@@ -1,0 +1,16 @@
+# ambiente
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# dados gerados
+data/output/
+db/
+
+# modelos (opcional - depende do tamanho)
+*.pkl
+
+# sistema
+.DS_Store
